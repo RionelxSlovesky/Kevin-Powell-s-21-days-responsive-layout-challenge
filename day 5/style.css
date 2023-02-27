@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* buttons */
+.primary-btn {
+    border: transparent;
+    background-color: #38CFD9;
+    color: #23424A;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+}
+
+.primary-btn:hover {
+    cursor: pointer;
+}
+
+/* intro */
+
+.container {
+    padding: 7em 5em;
+    background-color: #23424A;
+}
+
+#inner-container {
+    width: 50%;
+
+}
+
+#intro-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    color: #FFFFFF;
+    margin-bottom: 0.5em;
+}
+
+#intro-desc {
+    font-family: 'Roboto', sans-serif;
+    font: 21px;
+    color: #FFFFFF;
+    margin-bottom: 3em;
+    line-height: 1.5;
+}
+
+#intro-btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    color: #23424A;
+    
+}
